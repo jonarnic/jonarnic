@@ -105,22 +105,6 @@ Senior AI and Full-Stack Engineer with 9+ years of experience architecting scala
 
 ---
 
-## Projects
-
-### AI Document Summarization Platform
-- Built ML pipeline to extract, summarize, and categorize documents.
-- Implemented NLP models and RAG for context-aware search across large datasets.
-- Reduced manual review time by 60%.  
-**Tech:** Python, NLP, RAG, LangChain, FAISS, FastAPI, PostgreSQL
-
-### Real-Time Analytics Dashboard
-- Developed high-performance dashboard visualizing live data streams.
-- Built backend APIs and caching layers for sub-200ms processing.
-- Designed interactive UI with React and Redux.  
-**Tech:** Python, Django, FastAPI, React, MongoDB, PostgreSQL, Azure, Docker
-
----
-
 ## Education
 **University of Texas at Austin — Austin, TX**  
 B.S. Computer Science (Sep 2012 – Dec 2016)
